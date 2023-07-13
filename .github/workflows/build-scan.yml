@@ -1,4 +1,4 @@
-name: Build, Test, Push
+name: Build, Scan
 
 on:
   push:
